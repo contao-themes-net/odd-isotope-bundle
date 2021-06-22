@@ -2,6 +2,8 @@
 
 Support Repository for ODD isotope bundle
 
+![ODD Isotope Bundle](https://contao-themes.net/assets/images/8/ODD_Isotope_Exploring_Contao_Theme_00-d52045ed.png)
+
 ## Links
 
 Shop Demo
