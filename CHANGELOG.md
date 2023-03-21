@@ -18,7 +18,6 @@ Types of changes
 
 - [Changed] Add support for Contao 4.13 and PHP 8
 - [Changed] Now requires ODD Theme 2.0 ([Docs](https://pdir.de/docs/de/contao/themes/odd/update/#update-von-version-1x-zu-2x))
-- [Fixed] Support public dir instead of web
 
 ## [1.2.0](https://github.com/contao-themes-net/odd-isotope-bundle/tree/1.2.0) – 2022-02-28
 
